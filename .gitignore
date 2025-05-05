@@ -1,0 +1,5 @@
+.DS_Store
+stats/__pycache__
+statslam/__pycache__
+stats/migrations/__pycache__
+db.sqlite3
